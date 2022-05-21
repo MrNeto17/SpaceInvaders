@@ -1,4 +1,2 @@
 # SpaceInvaders
-Language Used: Kotlin
-Dependecies: University made Canvas
-Run the game by Opening the "game.jar" file
+On this project we recreated Space Invaders game using Kotlin and Unversity Canvas Libraries. To run the game, run the "game.jar" file
